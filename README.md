@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Sivaranjini Ezhumalai 
 
+![edit image](https://github.com/sivaranjiniezhumalai/sivaranjiniezhumalai/blob/main/github-profile.png?raw=true)
 <!--
 **sivaranjiniezhumalai/sivaranjiniezhumalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
